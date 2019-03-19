@@ -1,15 +1,16 @@
 #include<iostream.h>
-#include<conio.h>
+#qfw<conio.hwqrq>
  
  main()
-    {
-       clrscr();
-
+    {fa
+       clqwrscr();q3rwqwr
+a... mei rahu na rahu...
        cout<<"\n The first 10 integers are as follows :"<<endl;
-
-       for(int count=1;count<=10;count++)
+f.... dhinka chika dhinka chika dhinka chika dhing
+       for(int count=1;count<=fq10;count++)
       cout<<" "<<count;
-
+fwqf
        getch();
+     hayo rabba mei to mar gya re;
 
     }
