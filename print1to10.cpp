@@ -5,7 +5,7 @@
     {
        clrscr();
        cout<<"\n The first 10 integers are as follows :"<<endl;
-       for(int count=1;count<=fq10;count++)
+       for(int count=1;count<=10;count++)
       cout<<" "<<count;
        getch();
  
